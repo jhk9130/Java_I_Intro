@@ -1,6 +1,6 @@
-package com.xpanxion.assignments.groupb;
+package com.xpanxion.assignments.groupf;
 
-public class student9 {
+public class student15 {
     public static void main(String[] args) {
         ex1();
     }

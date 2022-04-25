@@ -1,4 +1,4 @@
-package com.xpanxion.assignments.groupb;
+package com.xpanxion.assignments.groupf;
 
 public class student11 {
     public static void main(String[] args) {
