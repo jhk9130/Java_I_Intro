@@ -79,8 +79,8 @@ public class student13 {
         System.out.println(newList);
     }
 
-    private static void ex5() {
-
-    }
+//    private static void ex5() {
+//
+//    }
 
 }
